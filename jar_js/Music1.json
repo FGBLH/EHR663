@@ -1,0 +1,75 @@
+{
+  "class": [
+    { "type_id": "rank", "type_name": "排行榜" },
+    { "type_id": "pop", "type_name": "流行" },
+    { "type_id": "rock", "type_name": "摇滚" },
+    { "type_id": "folk", "type_name": "民谣" },
+    { "type_id": "electronic", "type_name": "电子" },
+    { "type_id": "rap", "type_name": "说唱" },
+    { "type_id": "rnb", "type_name": "R&B" },
+    { "type_id": "jazz", "type_name": "爵士" },
+    { "type_id": "classical", "type_name": "古典" },
+    { "type_id": "light", "type_name": "轻音乐" },
+    { "type_id": "soundtrack", "type_name": "影视原声" },
+    { "type_id": "anime", "type_name": "动漫" },
+    { "type_id": "game", "type_name": "游戏" },
+    { "type_id": "net", "type_name": "网络歌曲" },
+    { "type_id": "douyin", "type_name": "抖音热歌" },
+    { "type_id": "classic", "type_name": "怀旧经典" },
+    { "type_id": "chinese", "type_name": "华语" },
+    { "type_id": "cantonese", "type_name": "粤语" },
+    { "type_id": "western", "type_name": "欧美" },
+    { "type_id": "japan", "type_name": "日语" },
+    { "type_id": "korea", "type_name": "韩语" }
+  ],
+  "filters": {
+    "pop": [
+      { "key": "lang", "name": "语种", "value": [
+        { "n": "全部", "v": "" },
+        { "n": "华语", "v": "华语" },
+        { "n": "欧美", "v": "欧美" },
+        { "n": "日韩", "v": "日韩" }
+      ]},
+      { "key": "year", "name": "年代", "value": [
+        { "n": "全部", "v": "" },
+        { "n": "2020", "v": "2020" },
+        { "n": "2010", "v": "2010" },
+        { "n": "2000", "v": "2000" }
+      ]}
+    ],
+    "chinese": [
+      { "key": "male", "name": "男歌手", "value": [
+        { "n": "全部", "v": "" },
+        { "n": "周杰伦", "v": "周杰伦" },
+        { "n": "林俊杰", "v": "林俊杰" },
+        { "n": "陈奕迅", "v": "陈奕迅" },
+        { "n": "李健", "v": "李健" },
+        { "n": "朴树", "v": "朴树" },
+        { "n": "许巍", "v": "许巍" },
+        { "n": "毛不易", "v": "毛不易" },
+        { "n": "薛之谦", "v": "薛之谦" },
+        { "n": "李荣浩", "v": "李荣浩" },
+        { "n": "张杰", "v": "张杰" },
+        { "n": "胡彦斌", "v": "胡彦斌" },
+        { "n": "许嵩", "v": "许嵩" },
+        { "n": "赵雷", "v": "赵雷" }
+      ]},
+      { "key": "female", "name": "女歌手", "value": [
+        { "n": "全部", "v": "" },
+        { "n": "邓紫棋", "v": "邓紫棋" },
+        { "n": "张靓颖", "v": "张靓颖" },
+        { "n": "降央卓玛", "v": "降央卓玛" },
+        { "n": "萨顶顶", "v": "萨顶顶" },
+        { "n": "谭维维", "v": "谭维维" },
+        { "n": "袁娅维", "v": "袁娅维" },
+        { "n": "田馥甄", "v": "田馥甄" },
+        { "n": "陈粒", "v": "陈粒" },
+        { "n": "张碧晨", "v": "张碧晨" },
+        { "n": "徐佳莹", "v": "徐佳莹" },
+        { "n": "郁可唯", "v": "郁可唯" },
+        { "n": "蔡健雅", "v": "蔡健雅" },
+        { "n": "孙燕姿", "v": "孙燕姿" }
+      ]}
+    ]
+  }
+}
