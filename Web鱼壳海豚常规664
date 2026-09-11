@@ -1255,13 +1255,6 @@
              "ua": "okhttp",
 			 "url": "https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dsjcs.txt"
          },
-		{
-            "name": "🐬Nettv",
-            "type": 0,
-            "playerType": 2,
-             "ua": "okhttp",
-			 "url": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/Nettv.txt"
-         },
          {
             "name": "🐬地方直播",
             "type": 0,
@@ -1393,18 +1386,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://t.freetv.fun/m3u/playlist_all.txt"
-        },
-		{
-            "name": "🐬内地港台",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/内地港台"
-        },
-        {
-            "name": "🐬4GTV(梯子台湾节点)720p",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/4gtv.txt"
         },
 	    {
             "name": "🐬4GTV怡淳酒店(梯子台湾节点)720p",
