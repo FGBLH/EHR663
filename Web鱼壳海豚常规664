@@ -143,6 +143,18 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/油管直播.py"
 		},
 		{
+        	"key": "网飞猫影视",
+            "name": "🐬网飞猫影视(关梯)[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/网飞猫影视(关梯).py"
+		},
+		{
+        	"key": "ZIP0影视",
+            "name": "🐬ZIP0影视[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ZIP0影视.py"
+		},
+		{
         	"key": "饭搭子影视",
             "name": "🐬饭搭子影视[追剧]",
             "type": 3,
@@ -1069,6 +1081,12 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/共和国动漫.py"
         },
+		{
+			"key": "黑猫动漫",
+			"name": "🐬黑猫动漫[动漫]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/黑猫动漫.py"
+		},
 		{
 			"key": "短剧巴士",
 			"name": "🐬短剧巴士.py(关梯)[短剧]",
