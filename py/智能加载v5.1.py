@@ -23,8 +23,8 @@ class Spider(Spider):
     # 🔒 锁定在 sites 第 0、1 位的配置，无论扫描结果如何始终存在
     _LOCKED_SITES = [
 		{
-            "name": "智能接口",
-            "key": "智能接口",
+            "name": "智能加载",
+            "key": "智能加载",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/智能加载v5.1.py"
          },
