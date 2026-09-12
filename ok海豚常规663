@@ -103,6 +103,24 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
 		{
+        	"key": "影视虫",
+            "name": "🐬[追剧]影视虫",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影视虫.py"
+		},
+		{
+        	"key": "网飞猫影视",
+            "name": "🐬[追剧]网飞猫影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/网飞猫影视.py"
+		},
+		{
+        	"key": "ZIP0影视",
+            "name": "🐬[追剧]ZIP0影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ZIP0影视.py"
+		},
+		{
         	"key": "饭搭子影视",
             "name": "🐬[追剧]饭搭子影视",
             "type": 3,
@@ -1010,6 +1028,12 @@
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/共和国动漫.py"
         },
+		{
+			"key": "黑猫动漫",
+			"name": "🐬[动漫]黑猫动漫",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/黑猫动漫.py"
+		},
 		{
 			"key": "短剧巴士",
 			"name": "🐬[短剧]短剧巴士.py(关梯)",
