@@ -103,12 +103,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
 		{
-        	"key": "影视虫",
-            "name": "🐬[追剧]影视虫",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影视虫.py"
-		},
-		{
         	"key": "网飞猫影视",
             "name": "🐬[追剧]网飞猫影视",
             "type": 3,
