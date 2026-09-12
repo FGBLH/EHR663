@@ -103,6 +103,24 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
 		{
+        	"key": "饭搭子影视",
+            "name": "🐬[追剧]饭搭子影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/无极电影网(关梯).py"
+		},
+		{
+        	"key": "无极电影网",
+            "name": "🐬[追剧]无极电影网(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/无极电影网(关梯).py"
+		},
+		{
+        	"key": "55影院",
+            "name": "🐬[追剧]55影院(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/55影院(关梯).py"
+		},
+		{
         	"key": "开端影视",
             "name": "🐬[追剧]开端影视",
             "type": 3,
@@ -580,6 +598,13 @@
 		},
 		{
 			"key": "开心影院",
+			"name": "🐬[追剧]开心影院.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/开心影院.py",
+			"changeable": 0
+		},
+		{
+			"key": "开心影院js",
 			"name": "🐬[追剧]开心影院.js",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/开心影院.js",
@@ -727,12 +752,6 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/奇优影院.py"
 		},
-		{
-          "key": "yl",
-          "name": "🐬[追剧]永乐视频.py",
-          "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/永乐视频.py"
-        },
 		{
           "key": "mtyy",
           "name": "🐬[追剧]麦田影院.py",
