@@ -103,6 +103,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
         {
+        	"key": "影巢movie",
+            "name": "🐬[追剧]影巢movie(关梯)",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/影巢movie.py"
+		},
+        {
         	"key": "小蜜蜂影院",
             "name": "🐬[追剧]小蜜蜂影院",
             "type": 3,
