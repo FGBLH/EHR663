@@ -103,6 +103,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
         {
+        	"key": "绿色影视",
+            "name": "🐬[追剧]绿色影视",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/绿色影视.py"
+		},
+        {
         	"key": "极速追剧",
             "name": "🐬[追剧]极速追剧",
             "type": 3,
