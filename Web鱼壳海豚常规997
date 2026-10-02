@@ -136,8 +136,14 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
         {
+        	"key": "达达兔影院",
+            "name": "🐬达达兔影院(关梯)[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/达达兔影院(关梯).py"
+		},
+        {
         	"key": "懂片帝AI",
-            "name": "🐬[追剧]懂片帝AI",
+            "name": "🐬懂片帝AI[追剧]",
             "type": 3,
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/懂片帝AI.py"
 		},
