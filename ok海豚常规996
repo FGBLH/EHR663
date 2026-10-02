@@ -103,6 +103,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
         {
+        	"key": "小宝影院",
+            "name": "🐬[追剧]小宝影院",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/小宝影院.py"
+		},
+        {
         	"key": "达达兔影院",
             "name": "🐬[追剧]达达兔影院(关梯)",
             "type": 3,
