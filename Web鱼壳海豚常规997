@@ -676,13 +676,6 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/袋鼠影视.py"
 		},
 		{
-           "key": "ppx",
-           "name": "🐬皮皮虾.py[追剧]",
-           "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/皮皮虾.py",
-           "ext": "http://43.248.117.123:4680"
-       },
-		{
 			"key": "ddvm",
 			"name": "🐬嘀嗒影视.py(关梯)[追剧]",
 			"type": 3,
