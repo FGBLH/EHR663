@@ -136,6 +136,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
         {
+        	"key": "懂片帝AI",
+            "name": "🐬[追剧]懂片帝AI",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/懂片帝AI.py"
+		},
+        {
         	"key": "影巢movie",
             "name": "🐬影巢movie(关梯)[追剧]",
             "type": 3,
