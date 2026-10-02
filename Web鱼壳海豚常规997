@@ -136,6 +136,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
         {
+        	"key": "极速追剧",
+            "name": "🐬极速追剧[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/极速追剧.py"
+		},
+        {
         	"key": "小宝影院",
             "name": "🐬小宝影院[追剧]",
             "type": 3,
