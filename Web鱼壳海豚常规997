@@ -136,6 +136,12 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
         },
         {
+        	"key": "人人视频",
+            "name": "🐬人人视频(关梯)[追剧]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/人人视频.py"
+		},
+        {
         	"key": "绿色影视",
             "name": "🐬绿色影视[追剧]",
             "type": 3,
