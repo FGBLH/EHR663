@@ -1275,8 +1275,14 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/蚕驰短剧网.py"
 		},
 		{
+			"key": "起点有声",
+			"name": "🐬[听书]起点有声(关梯)",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/起点有声.py"
+		},
+        {
 			"key": "ytb",
-			"name": "🐬[听书]悦听吧.py",
+			"name": "🐬[听书]悦听吧",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/悦听吧.py"
 		},
